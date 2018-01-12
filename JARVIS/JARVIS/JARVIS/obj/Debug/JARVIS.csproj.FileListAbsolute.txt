@@ -1,0 +1,12 @@
+C:\Users\Michael\Documents\Visual Studio 2017\Mine\JARVIS\JARVIS\JARVIS\bin\Debug\JARVIS.exe.config
+C:\Users\Michael\Documents\Visual Studio 2017\Mine\JARVIS\JARVIS\JARVIS\bin\Debug\JARVIS.exe
+C:\Users\Michael\Documents\Visual Studio 2017\Mine\JARVIS\JARVIS\JARVIS\bin\Debug\JARVIS.pdb
+C:\Users\Michael\Documents\Visual Studio 2017\Mine\JARVIS\JARVIS\JARVIS\obj\Debug\JARVIS.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2017\Mine\JARVIS\JARVIS\JARVIS\obj\Debug\JARVIS.frmJARVIS.resources
+C:\Users\Michael\Documents\Visual Studio 2017\Mine\JARVIS\JARVIS\JARVIS\obj\Debug\JARVIS.Properties.Resources.resources
+C:\Users\Michael\Documents\Visual Studio 2017\Mine\JARVIS\JARVIS\JARVIS\obj\Debug\JARVIS.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Visual Studio 2017\Mine\JARVIS\JARVIS\JARVIS\obj\Debug\JARVIS.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Visual Studio 2017\Mine\JARVIS\JARVIS\JARVIS\obj\Debug\JARVIS.exe
+C:\Users\Michael\Documents\Visual Studio 2017\Mine\JARVIS\JARVIS\JARVIS\obj\Debug\JARVIS.pdb
+C:\Users\Michael\Documents\Visual Studio 2017\Mine\JARVIS\JARVIS\JARVIS\obj\Debug\Interop.WMPLib.dll
+C:\Users\Michael\Documents\Visual Studio 2017\Mine\JARVIS\JARVIS\JARVIS\obj\Debug\JARVIS.csproj.ResolveComReference.cache
